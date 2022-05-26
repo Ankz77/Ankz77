@@ -4,9 +4,15 @@
 int main() 
 { 
     int i,j; 
-    for(i=0;i<MAX;i++){					// 'for' loop 
-        for(j=0;j<MAX;j++){				// nested 'for' loop 
-            if(i+j<MAX){					// if statement, very important 
+    
+   // 'for' loop    
+  for(i=0;i<MAX;I++){
+  
+ // nested 'for' loop
+        for(j=0;j<MAX;j++){				 
+           
+ // if statement, very important
+          if(i+j<MAX){					 
                 printf("* "); 
             }else{ 
 			    printf("  "); 
