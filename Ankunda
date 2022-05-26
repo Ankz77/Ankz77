@@ -1,0 +1,18 @@
+#include <stdio.h> 
+#define MAX 10 
+ 
+int main() 
+{ 
+    int i,j; 
+    for(i=0;i<MAX;i++){					// 'for' loop 
+        for(j=0;j<MAX;j++){				// nested 'for' loop 
+            if(i+j<MAX){					// if statement, very important 
+                printf("* "); 
+            }else{ 
+			    printf("  "); 
+			} 
+        } 
+        printf("\n"); 
+    } 
+    return 0; 
+} 
