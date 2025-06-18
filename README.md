@@ -2,7 +2,7 @@
 
 ### My prof  
 <div align="center">
-<img src="https://pin.it/6pdgGOtiU" align="center" height="400" width="300" />
+<img src="[https://pin.it/6pdgGOtiU](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhreDQ0MGQ1azBleHg5MHB3NHJhbWExenRqY210NWN6OHZxd29kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif)" align="center" height="400" width="300" />
 </div>  
   
 
